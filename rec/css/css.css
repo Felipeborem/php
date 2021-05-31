@@ -1,0 +1,98 @@
+header {
+	
+		background-color: 054f87;
+		text-align: center;
+		padding: 20px;
+		font-style: normal;
+		font-weight: 300;
+		font-family: sans-serif;
+}
+.topnav {
+	
+	background-color: 054f87;
+	/*  padding: 10px; */
+	color: black;
+	
+}
+
+.topnav a {
+	
+	display: inline-block;
+	padding: 10px   15px;
+	text-align: center;
+	text-decoration: nome;
+	color: Black;
+	
+}
+.topnav a:hover{
+	
+	background-color:#122c40;
+	color: #black;
+
+	
+}
+.coluna {
+	float: left;
+	width:50%;
+	box-sizing: border-box;
+	padding: 20px;
+	background: #82c3f5;
+}
+
+h2 {
+	font-family: arial;
+	color: Beige;
+	font-size: 20;
+	
+}
+
+.coluna0 {
+	float: center;
+	width:100%;
+	padding: 20px;
+	
+	
+}
+
+.coluna2 {
+	float: right;
+	width:50%;
+	box-sizing: border-box;
+	padding: 20px;
+	background: linear-gradient(#0d136b,#7a7a7a);
+}
+.coluna3 {
+	float: left;
+	width:50%;
+	box-sizing: border-box;
+	padding: 20px;
+	background: #9fcbed;
+}
+
+.coluna4 {
+	float: left;
+	width:50%;
+	box-sizing: border-box;
+	padding: 20px;
+	background: #56a6e3;
+}
+
+.box1 {
+	width: 500px;
+	padding: 40px;
+	border: 2px solid Black;
+	margin: 20px 0;
+	box-sizing: border-box;
+	background: url("../imagens/gg.jpg");
+	background-size: 100% 100%;
+	background-position: top left;
+}
+
+
+footer {
+	
+	background-color: #2e3c47;
+		text-align: center;
+		padding: 20px;
+	
+}
